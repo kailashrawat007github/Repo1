@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 46DC-0FB6
+
+ Directory of C:\Users\kaiawra\Desktop\GitFolder
+
+10/18/2018  12:55 PM    <DIR>          .
+10/18/2018  12:55 PM    <DIR>          ..
+10/18/2018  12:55 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  24,299,941,888 bytes free
